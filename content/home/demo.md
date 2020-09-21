@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Site under construction"
-subtitle = ""
+subtitle = "My personal portfolio will be available here soon"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
