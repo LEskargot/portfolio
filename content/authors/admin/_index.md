@@ -15,9 +15,9 @@ role: Physician-Scientist in Global and Digital Health
 # Organizations/Affiliations
 organizations:
 - name: Swiss Tropical and Public Health Institute
-  url: "www.swisstph.ch"
+  url: "https://www.swisstph.ch"
 - name: Centre Universitaire de Médecine Générale et Santé Publique 
-  url: "www.unisante.ch"
+  url: "https://www.unisante.ch"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Clinical Decision Support Algorithms, Tropical Infectious Diseases and Global Health.
@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: Doctorate Candidate in PhD in Artificial Intelligence
+  - course: Doctorate Candidate
     institution: Faculty of Biology and Medicine - Lausanne University
     year: 2021
   - course: Specialisation in General Internal Medicine
@@ -58,9 +58,9 @@ social:
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ludovico@cobuccio.me"
