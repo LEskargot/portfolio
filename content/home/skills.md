@@ -14,29 +14,31 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "bug"
-  icon_pack = "fas"
-  name = "Parasites"
-  description = "80%"
+# [[feature]]
+#  icon = "bug"
+#  icon_pack = "fas"
+#  name = "Parasites"
+#  description = "80%"
   
-[[feature]]
-  icon = "bacteria"
-  icon_pack = "fas"
+  [[feature]]
+  icon = ":bug:"
+  icon_pack = "emoji"
+  name = "Parasites"
+  description = "90%" 
+ 
+ [[feature]]
+  icon = ":microbe:"
+  icon_pack = "emoji"
   name = "Bacteria"
   description = "70%"  
-  
-[[feature]]
-  icon = "viruses"
-  icon_pack = "fas"
-  name = "Viruses"
-  description = "60%"
-  
+   
  [[feature]]
   icon = ":mushroom:"
   icon_pack = "emoji"
   name = "Fungi"
-  description = "40%"  
+  description = "50%"  
+  
+
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
