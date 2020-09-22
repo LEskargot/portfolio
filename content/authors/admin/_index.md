@@ -17,27 +17,27 @@ organizations:
 - name: Swiss Tropical and Public Health Institute
   url: "www.swisstph.ch"
 - name: Centre Universitaire de Médecine Générale et Santé Publique 
-- url: "www.unisante.ch"
+  url: "www.unisante.ch"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Clinical Decision Support Algorithms, Tropical Infectious Diseases and Global Health.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Clinical Decision Support Algorithms
+- Tropical Infectious Diseases
+- Global Health
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Doctorate Candidate in PhD in Artificial Intelligence
+    institution: Faculty of Biology and Medicine - Lausanne University
+    year: 2021
+  - course: Specialisation in General Internal Medicine
+    institution: Swiss Medical Association
+    year: 2019
+  - course: Master in Human Medicine and Surgery
+    institution: Università degli Studi dell'Insubria (Italy)
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ludovico@cobuccio.me"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Ludovico Cobuccio is a Medical Doctor with a specialisation in General Internal Medicine and expertise in Tropical Medicine and Digital Health Interventions. His research interests include Clinical Decision Support Algorithms, Tropical and Travel Medicine. He is the clinical coordinator for Dynamic RW, which aims at the implementation of Dynamic clinical decision support algorithms to manage sick children in primary health care settings in Rwanda.
+Ludovico Cobuccio is a Medical Doctor with a specialisation in General Internal Medicine and expertise in Tropical Medicine and Digital Health Interventions. His research interests include Clinical Decision Support Algorithms, Tropical Infectious Diseases and Global Health. He is the clinical coordinator for Dynamic RW, which aims at the implementation of Dynamic clinical decision support algorithms to manage sick children in primary health care settings in Rwanda.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
