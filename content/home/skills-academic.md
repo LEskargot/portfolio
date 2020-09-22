@@ -42,7 +42,7 @@ subtitle = ""
   icon = "users"
   icon_pack = "fas"
   name = "Project Management"
-  description = "70%"  
+  description = "60%"  
   
   [[feature]]
   icon = "r-project"
