@@ -23,13 +23,13 @@ subtitle = ""
   [[feature]]
   icon = "stethoscope"
   icon_pack = "fas"
-  name = "Clinical skills"
+  name = "Clinics"
   description = "80%"
   
    [[feature]]
   icon = "microscope"
   icon_pack = "fas"
-  name = "Lab Skills"
+  name = "Lab"
   description = "50%"
   
   [[feature]]
