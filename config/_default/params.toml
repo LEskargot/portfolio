@@ -93,14 +93,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Kigali", region = "", postcode = "", country = "Rwanda", country_code = "RW"}
-
+address = {city = "Kigali", country = "Rwanda", country_code = "RW"}
+# {street = "", city = "Kigali", region = "", postcode = "", country = "Rwanda", country_code = "RW"}
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "-1.952851", longitude = "30.095081"} , 
 
 # Directions for visitors to locate you.
-directions = ""
+# directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
