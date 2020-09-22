@@ -31,6 +31,12 @@ subtitle = ""
   icon_pack = "emoji"
   name = "Bacteria"
   description = "70%"  
+  
+  [[feature]]
+  icon = "virus"
+  icon_pack = "fas"
+  name = "Viruses"
+  description = "60%"
    
  [[feature]]
   icon = ":mushroom:"
