@@ -15,8 +15,8 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "think"
-  icon_pack = "custom"
+  icon = "brain"
+  icon_pack = "fas"
   name = "Critical thinking"
   description = "90%"
 
@@ -51,9 +51,6 @@ subtitle = ""
   description = "40%"
    
 
-  
-
-  
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -65,5 +62,11 @@ subtitle = ""
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+# [[feature]]
+#  icon = "brain"
+#  icon_pack = "custom"
+#  name = "Critical thinking"
+#  description = "90%"
 
+  
 +++
