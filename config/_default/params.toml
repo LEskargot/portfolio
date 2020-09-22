@@ -89,15 +89,15 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "ludovico@cobuccio.me"
-phone = ""
+# phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {city = "Kigali", country = "Rwanda", country_code = "RW"}
+address = {city = "Kigali"}
 # {street = "", city = "Kigali", region = "", postcode = "", country = "Rwanda", country_code = "RW"}
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-1.952851", longitude = "30.095081"} , 
+coordinates = {latitude = "-1.952851", longitude = "30.095081"} 
 
 # Directions for visitors to locate you.
 # directions = ""
