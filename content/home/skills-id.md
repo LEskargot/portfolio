@@ -21,6 +21,18 @@ subtitle = ""
 #  description = "80%"
   
   [[feature]]
+  icon = "stethoscope"
+  icon_pack = "fas"
+  name = "Clinical skills"
+  description = "80%"
+  
+   [[feature]]
+  icon = "microscope"
+  icon_pack = "fas"
+  name = "Lab Skills"
+  description = "50%"
+  
+  [[feature]]
   icon = ":bug:"
   icon_pack = "emoji"
   name = "Parasites"
