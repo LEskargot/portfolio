@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Physician-Scientist in Global and Digital Health
+role: Physician-Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -23,9 +23,10 @@ organizations:
 bio: My research interests include Clinical Decision Support Algorithms, Tropical Infectious Diseases and Global Health.
 
 interests:
-- Clinical Decision Support Algorithms
 - Tropical Infectious Diseases
-- Global Health
+- Coding
+- Photography
+- Guitar
 
 education:
   courses:
