@@ -39,7 +39,7 @@ subtitle = ""
   description = "70%"  
   
    [[feature]]
-  icon = "chalckboard-teacher"
+  icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Teaching"
   description = "80%"  
