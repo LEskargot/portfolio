@@ -46,13 +46,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ludovico@cobuccio.me'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DrLuCob
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: google-scholar
+ # icon_pack: ai
+  # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/LEskargot
@@ -73,5 +73,3 @@ user_groups:
 ---
 
 Ludovico Cobuccio is a Medical Doctor with a specialisation in General Internal Medicine and expertise in Tropical Medicine and Digital Health Interventions. His research interests include Clinical Decision Support Algorithms, Tropical Infectious Diseases and Global Health. He is the clinical coordinator for Dynamic RW, which aims at the implementation of Dynamic clinical decision support algorithms to manage sick children in primary health care settings in Rwanda.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
