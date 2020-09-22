@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ludovico Cobuccio
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Physician-Scientist in Global and Digital Health
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Swiss Tropical and Public Health Institute
+  url: "www.swisstph.ch"
+- name: Centre Universitaire de Médecine Générale et Santé Publique 
+- url: "www.unisante.ch"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ludovico Cobuccio is a Medical Doctor with a specialisation in General Internal Medicine and expertise in Tropical Medicine and Digital Health Interventions. His research interests include Clinical Decision Support Algorithms, Tropical and Travel Medicine. He is the clinical coordinator for Dynamic RW, which aims at the implementation of Dynamic clinical decision support algorithms to manage sick children in primary health care settings in Rwanda.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
