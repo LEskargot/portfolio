@@ -15,22 +15,28 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "user-md"
+  icon = "bug"
   icon_pack = "fas"
-  name = "Clinical Skills"
-  description = "70%"
+  name = "Parasites"
+  description = "80%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "bacteria"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Bacteria"
+  description = "70%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "viruses"
   icon_pack = "fas"
-  name = "Photography"
-  description = "29%"
+  name = "Viruses"
+  description = "60%"
+  
+[[feature]]
+  icon = :mushroom:
+  icon_pack = "fas"
+  name = "Fungi"
+  description = "40%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
