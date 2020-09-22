@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "user-md"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Clinical Skills"
   description = "70%"
   
