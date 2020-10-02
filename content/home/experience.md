@@ -20,6 +20,34 @@ date_format = "Jan 2006"
 
 
 [[experience]]
+  title = "Digital Health Physician-Scientist"
+  company = "Centre for Primary Care and Public Health - Lausanne University<br/>Swiss Tropical and Public Health Institute - Basel University"
+  company_url = "https://www.unisante.ch"
+  location = "Lausanne - Switzerland"
+  date_start = "2020-05-01"
+  date_end = ""
+  description = """
+Research Physician for the DYNAMIC project, aimed at improving the quality of care for children and adolescents (0-12 years) in low-resources settings by implementing novel dynamic clinical algorithms and point-of-care tests that help to guide and train health workers in the management of sick children. Responsible for adapting the algorithms to the country's guidelines. Programming algorithms and giving technical support in the implementation of the project in 2 districts of Rwanda's Western Province.
+  """
+
+[[experience]]
+  title = "Chief Resident Physician"
+  company = "Tropical and Travel Medicine Polyclinic - Centre for Primary Care and Public Health - Lausanne University"
+  company_url = "https://www.unisante.ch/fr/formation-recherche/recherche/groupes-recherche/vaccination-medecine-voyages"
+  location = "Lausanne - Switzerland"
+  date_start = "2018-03-01"
+  date_end = "2020-04-30"
+  description = """
+**Clinical** :<br/>
+Supervision of junior residents and nurses in pre- and post-travel advice and consultations.<br/>
+Out-patient and in-patient consultations in Tropical Medicine.<br/>
+On-call physician for an e-mail based telemedicine service for travellers.<br/>
+**Research** :<br/>
+- Co-Investigator and Local Study coordinator for EFFORT study, a multicenter observational studyaimed at assessing the performance of a new multiplex PCR panel, describing causes of fever in the returning traveller and identifying disease-specific predictors.<br/>
+- Clinical content manager for Fever Travel App, a clinical decision support algorithm in general medicine focused on the management of fevers in the returning traveller.
+  """
+
+[[experience]]
   title = "Resident Physician"
   company = "Tropical and Travel Medicine Polyclinic - Centre for Primary Care and Public Health - Lausanne University"
   company_url = "https://www.unisante.ch"
@@ -27,15 +55,29 @@ date_format = "Jan 2006"
   date_start = "2017-05-01"
   date_end = "2018-02-28"
   description = """
-**Clinical :**<br/>
+**Clinical** :<br/>
 Pre-travel advice and vaccination
 Post-travel outpatient clinic<br/>
 Intra-hospital consultations in Tropical Medicine<br/>
 On-call physician for an e-mail based telemedicine service for travellers<br/>
 
-**Research :**<br/>
+**Research** :<br/>
 Development of a clinical decision support algorithm in general medicine focused on the management of fevers in the returning traveller
   """
+  
+    [[experience]]
+  title = "Resident Physician"
+  company = "CHUV - Lausanne University Hospital"
+  company_url = "https://www.chuv.ch"
+  location = "Lausanne - Switzerland"
+  date_start = "2016-05-01"
+  date_end = "2017-04-30"
+  description = """
+Ward and on-call activities in Internal Medicine, Sub-intensive care Unit, Geriatrics<br/>
+6 months of rotation in the Infectious Diseases Department :<br/>
+Sub rotations in septic surgery, general infectious disease and the outpatient parenteral antibiotic treatment unit.
+  """
+  
   [[experience]]
   title = "Junior Project Officer"
   company = "CUAMM - Doctors With Africa"
