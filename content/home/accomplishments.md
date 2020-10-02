@@ -29,6 +29,16 @@ date_format = "Jan 2006"
   description = "Internationally recognised Certificate of Knowledge in Travel Health"
 
 [[item]]
+  organization = "asdfasdfga Mundi - Università di Brescia"
+  organization_url = "https://www.medicusmundi.it/en"
+  title = "Tropical Medicine and International Health"
+  url = ""
+  certificate_url = "www.ludovico.md/static/media/CTH.pdf"
+  date_start = "2015-11-02"
+  date_end = "2015-11-20"
+  description = "Three weeks course on clinical tropical medicine and international health amounting to 105 hours and 50 CME credits, including laboratory training sessions"
+  
+[[item]]
   organization = "Medicus Mundi - Università di Brescia"
   organization_url = "https://www.medicusmundi.it/en"
   title = "Tropical Medicine and International Health"
