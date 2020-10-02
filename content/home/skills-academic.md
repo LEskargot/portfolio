@@ -18,7 +18,7 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Critical thinking"
-  description = "**90%**"
+  description = "90%"
 
 [[feature]]
   icon = "chalkboard-teacher"
