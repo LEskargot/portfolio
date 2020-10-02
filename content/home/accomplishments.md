@@ -28,4 +28,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Internationally recognised Certificate of Knowledge in Travel Health"
 
+[[item]]
+  organization = "Medicus Mundi - Università di Brescia"
+  organization_url = "https://www.medicusmundi.it/en"
+  title = "Tropical Medicine and International Health"
+  url = ""
+  certificate_url = "https://nextclouds.webo.hosting/s/acZk69y5D9Dsixs"
+  date_start = "2015-11-02"
+  date_end = "2015-11-20"
+  description = "Internationally recognised Certificate of Knowledge in Travel Health"
 +++
