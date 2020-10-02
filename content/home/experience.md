@@ -25,15 +25,14 @@ date_format = "Jan 2006"
   date_start = "2017-05-01"
   date_end = "2018-02-28"
   description = """
-Clinical :
+Clinical :<br/>
 Pre-travel advice and vaccination
-Post-travel outpatient clinic\
-Intra-hospital consultations in Tropical Medicine\
-On-call physician for an e-mail based telemedicine service for travellers
+Post-travel outpatient clinic<br/>
+Intra-hospital consultations in Tropical Medicine<br/>
+On-call physician for an e-mail based telemedicine service for travellers<br/>
 
-Research :
-Development of a clinical decision support algorithm in general medicine focused on the management
-of fevers in the returning traveller
+Research :<br/>
+Development of a clinical decision support algorithm in general medicine focused on the management of fevers in the returning traveller
   """
 
 
