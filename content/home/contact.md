@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contact"
-subtitle = ""
+subtitle = "Get in touch with me to let me know how I can help"
 
 # Automatically link email and phone?
 autolink = true
@@ -19,6 +19,6 @@ email_form = 2
 
 # Netlify form settings.
 [netlify]
-  captcha = false  # Enable CAPTCHA challenge to reduce spam?
+  captcha = true  # Enable CAPTCHA challenge to reduce spam?
 +++
 
