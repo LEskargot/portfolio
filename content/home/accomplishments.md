@@ -36,5 +36,5 @@ date_format = "Jan 2006"
   certificate_url = "https://nextclouds.webo.hosting/s/acZk69y5D9Dsixs"
   date_start = "2015-11-02"
   date_end = "2015-11-20"
-  description = "Internationally recognised Certificate of Knowledge in Travel Health"
+  description = "3 weeks course on clinical tropical medicine and international health 105 hours and 50 CME credits, including laboratory training sessions"
 +++
