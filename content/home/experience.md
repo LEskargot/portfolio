@@ -17,10 +17,12 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
 [[experience]]
   title = "Resident Physician"
   company = "Tropical and Travel Medicine Polyclinic - Centre for Primary Care and Public Health - Lausanne University"
-  company_url = "www.unisante.ch"
+  company_url = "https://www.unisante.ch"
   location = "Lausanne"
   date_start = "2017-05-01"
   date_end = "2018-02-28"
@@ -33,6 +35,18 @@ On-call physician for an e-mail based telemedicine service for travellers<br/>
 
 Research :<br/>
 Development of a clinical decision support algorithm in general medicine focused on the management of fevers in the returning traveller
+  """
+  
+  [[experience]]
+  title = "Resident Physician"
+  company = "Hôpital Fribourgeois - Sites de Riaz et Billens "
+  company_url = "https://www.hfr.ch"
+  location = "Lausanne"
+  date_start = "2013-11-01"
+  date_end = "2015-10-31"
+  description = """
+Clinical tasks within the Internal Medicine Department (Prof. Uwe Schiemann)<br/>
+Rotations in Physical medicine and rehabilitation, Geriatrics, Emergency Department, Internal Medicine and Subintensive Care Unit.
   """
 
 
