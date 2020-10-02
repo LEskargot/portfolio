@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplishments"
+title = "Courses"
 subtitle = ""
 
 # Date format
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.medicusmundi.it/en"
   title = "Tropical Medicine and International Health"
   url = ""
-  certificate_url = "www.ludovico.md/static/media/CTH.pdf"
+  certificate_url = "static/media/CTH.pdf"
   date_start = "2015-11-02"
   date_end = "2015-11-20"
   description = "Three weeks course on clinical tropical medicine and international health amounting to 105 hours and 50 CME credits, including laboratory training sessions"
