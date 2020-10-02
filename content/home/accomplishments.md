@@ -26,6 +26,6 @@ date_format = "Jan 2006"
   certificate_url = "https://www.istm.org/cthdesignation"
   date_start = "2019-06-05"
   date_end = ""
-  description = "Internationally recognised Certificate of Knowledge in Travel health"
+  description = "Internationally recognised Certificate of Knowledge in Travel Health"
 
 +++
