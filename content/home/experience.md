@@ -27,12 +27,9 @@ date_format = "Jan 2006"
   description = """
 Clinical :
 Pre-travel advice and vaccination
-
-Post-travel outpatient clinic
-
-Intra-hospital consultations in Tropical Medicine
-
-On-call physician for an e-mail based telemedicine service for travellers.  
+Post-travel outpatient clinic\
+Intra-hospital consultations in Tropical Medicine\
+On-call physician for an e-mail based telemedicine service for travellers
 
 Research :
 Development of a clinical decision support algorithm in general medicine focused on the management
