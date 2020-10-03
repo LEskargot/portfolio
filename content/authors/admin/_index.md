@@ -23,8 +23,8 @@ organizations:
 bio: My research interests include Clinical Decision Support Algorithms, Tropical Infectious Diseases and Global Health.
 
 interests:
-- Tropical Infectious Diseases
-- Coding
+- Responsible Travel 
+- Open Source Coding
 - Photography
 - Guitar
 
@@ -61,7 +61,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/CV.pdf
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ludovico@cobuccio.me"
