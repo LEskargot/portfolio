@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contact"
-subtitle = "Get in touch with me and tell me know how I can help you"
+subtitle = "How I can help ?"
 
 # Automatically link email and phone?
 autolink = true
