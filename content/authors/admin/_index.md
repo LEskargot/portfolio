@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: Specialisation in Infectious Disease
+    institution: ISFM
+    year: ongoing
   - course: MSc in Data Science, Technology and Innovation
     institution: The University of Edinburgh
     year: ongoing
@@ -35,7 +38,7 @@ education:
     institution: Faculty of Biology and Medicine - Lausanne University
     year: ongoing
   - course: Specialisation in General Internal Medicine
-    institution: Swiss Medical Association
+    institution: ISFM
     year: 2019
   - course: Master in Human Medicine and Surgery
     institution: Università degli Studi dell'Insubria (Italy)
