@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ludovico Cobuccio
+title: Ludovico G. Cobuccio
 
 # Username (this should match the folder name)
 authors:
@@ -10,14 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Physician-Scientist
+role: ID Resident Physician
 
 # Organizations/Affiliations
 organizations:
-- name: Swiss Tropical and Public Health Institute
-  url: "https://www.swisstph.ch"
-- name: Centre Universitaire de Médecine Générale et Santé Publique 
-  url: "https://www.unisante.ch"
+- name: Infectious Disease - Lausanne University Hospital
+  url: "https://www.chuv.ch/en/min/min-home/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Clinical Decision Support Algorithms, Tropical Infectious Diseases and Global Health.
@@ -30,9 +28,12 @@ interests:
 
 education:
   courses:
+  - course: MSc in Data Science, Technology and Innovation
+    institution: The University of Edinburgh
+    year: ongoing
   - course: Doctorate Candidate
     institution: Faculty of Biology and Medicine - Lausanne University
-    year: 2021
+    year: ongoing
   - course: Specialisation in General Internal Medicine
     institution: Swiss Medical Association
     year: 2019
@@ -73,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Ludovico Cobuccio is a Medical Doctor with a specialisation in General Internal Medicine and expertise in Tropical Medicine and Digital Health Interventions. His research interests include Clinical Decision Support Algorithms, Tropical Infectious Diseases and Global Health. He is the clinical coordinator for Dynamic RW, which aims at the implementation of Dynamic clinical decision support algorithms to manage sick children in primary health care settings in Rwanda.
+Ludovico Cobuccio is a Medical Doctor with a specialisation in General Internal Medicine and expertise in Clinical Infectious Disease, Tropical and Travel Medicine and Digital Health Interventions. His research interests include Clinical Decision Support Algorithms for Antibiotic Stewardship and fever management.
