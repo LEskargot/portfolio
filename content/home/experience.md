@@ -116,7 +116,7 @@ Sub rotations in septic surgery, general infectious disease and the outpatient p
   company = "CUAMM - Doctors With Africa"
   company_url = "https://www.mediciconlafrica.org/en/our-voice/news/diabetes-hypertension-tb-luanda/"
   location = "Luanda - Angola"
-  date_start = "2015-11-01"
+  date_start = "2015-12-01"
   date_end = "2016-03-30"
   description = """
 Four months volunteer work on a pilot project to improve diabetes and hypertension diagnosis and treatment among TB patients in Luanda, Angola.<br/>
