@@ -20,14 +20,47 @@ date_format = "Jan 2006"
 
 
 [[experience]]
+  title = "Resident Physician"
+  company = "Infectious Disease Service - Lausanne University Hospital"
+  company_url = "https://www.chuv.ch/fr/min/min-home/"
+  location = "Lausanne - Switzerland"
+  date_start = "2022-05-01"
+  date_end = ""
+  description = """
+Clinical work dealing with complex infectious diseases in immunocompromised hosts, joints and bone infections, general consultation, outpatient parenteral antibiotic treatment
+  """
+
+[[experience]]
+  title = "Short-term Consultant"
+  company = "World Health Organization"
+  company_url = "https://www.who.int/tools/em-care"
+  location = "Remote"
+  date_start = "2021-07-01"
+  date_end = "2022-01-31"
+  description = """
+Technical support for the development of a digital adaptation kit (DAK) for Integrated Management of Childhood Illnesses (IMCI) in humanitarian contexts. Modeling of fever management algorithms. Coordination by Dr. Tejshri Harivallabh Shah and Dr. Nigel Rollins
+  """
+  
+  [[experience]]
+  title = "Visiting Doctor"
+  company = " University Teaching Hospital of Kigali (CHUK)"
+  company_url = "https://www.chuk.rw/"
+  location = "Kigali - Rwanda"
+  date_start = "2021-01-01"
+  date_end = "2022-04-30"
+  description = """
+Participation in the clinical activities of the Department of Internal Medicine led by Dr. Jean Damascene Kabakambira. General infectious disease/HIV consultations. Laboratory of Clinical Microbiology.
+  """
+  
+[[experience]]
   title = "Digital Health Physician-Scientist"
   company = "Centre for Primary Care and Public Health - Lausanne University<br/>Swiss Tropical and Public Health Institute - Basel University"
   company_url = "https://www.unisante.ch"
   location = "Lausanne - Switzerland"
   date_start = "2020-05-01"
-  date_end = ""
+  date_end = "2020-04-30"
   description = """
-Research Physician for the DYNAMIC project, aimed at improving the quality of care for children and adolescents (0-12 years) in low-resources settings by implementing novel dynamic clinical algorithms and point-of-care tests that help to guide and train health workers in the management of sick children. Responsible for adapting the algorithms to the country's guidelines. Programming algorithms and giving technical support in the implementation of the project in 2 districts of Rwanda's Western Province.
+Research Physician for the DYNAMIC project, aimed at improving the quality of care for children and adolescents (0-12 years) in low-resources settings by implementing novel dynamic clinical algorithms and point-of-care tests that help to guide and train health workers in the management of sick children. Responsible for adapting the algorithms to the country's guidelines. Programming algorithms and giving technical support in the implementation of the project in 2 districts of Rwanda's Western Province. Contributed to Data Analysis and final publication.
   """
 
 [[experience]]
