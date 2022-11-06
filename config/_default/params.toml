@@ -97,7 +97,7 @@ address = {street = "", city = "Kigali", region = "", postcode = "", country = "
 # {street = "", city = "Kigali", region = "", postcode = "", country = "Rwanda", country_code = "RW"}
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-1.952851", longitude = "30.095081"} 
+coordinates = {latitude = "46.524915233924474", longitude = "6.642436088167679"} 
 
 # Directions for visitors to locate you.
 # directions = ""
@@ -265,7 +265,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 1
   api_key = ""
   zoom = 14
 
