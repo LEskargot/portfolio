@@ -93,7 +93,7 @@ email = "ludovico@cobuccio.me"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Kigali", region = "", postcode = "", country = "Rwanda", country_code = "RW"}
+address = {street = "Rue du Bugnon 46", city = "Lausanne", region = "Vaud", postcode = "1011", country = "Switzerland", country_code = "CH"}
 # {street = "", city = "Kigali", region = "", postcode = "", country = "Rwanda", country_code = "RW"}
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
