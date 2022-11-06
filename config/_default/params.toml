@@ -93,7 +93,7 @@ email = "ludovico@cobuccio.me"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Rue du Bugnon 46", city = "Lausanne", region = "Vaud", postcode = "1011", country = "Switzerland", country_code = "CH"}
+address = {street = "Rue du Bugnon 46", city = "Lausanne", region = "", postcode = "1011", country = "Switzerland", country_code = "CH"}
 # {street = "", city = "Kigali", region = "", postcode = "", country = "Rwanda", country_code = "RW"}
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -140,7 +140,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "en-gb"
+address_format = "fr-ch"
 
 ############################
 ## Advanced
